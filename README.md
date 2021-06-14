@@ -2,17 +2,7 @@
 
 [LazyPredict](https://pypi.org/project/lazypredict/) is an excellent python library that allows the user to automatically run their data through a myriad of models. It will then output information regarding how each model performed, allowing the user to view which model might be best for their use case.
 
-This is a great tool to save time that might otherwise be spent manually testing different models. But while exploring this tool, I began to wonder what other manual steps I could accomplish purely with python libraries. And with that thought, I dove into a test of lazier than lazypredict predictions. After all:
-
-![p_r_pizza_gif.gif](https://raw.githubusercontent.com/ismizu/Lazy_LazyPredict/main/images/p_r_pizza_gif.gif)
-
-<h5 align = 'center'>
-    Image from
-    <a href = ' https://giphy.com/gifs/time-money-power-p6iPHyrGYLiRq'>
-    Giphy.com
-    </a>
-</h5>
-
+This is a great tool to save time that might otherwise be spent manually testing different models. But while exploring this tool, I began to wonder what other manual steps I could accomplish purely with python libraries. And with that thought, I dove into a test of lazier than lazypredict predictions.
 ___
 
 ## Folder Structure
