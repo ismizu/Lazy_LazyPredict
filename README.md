@@ -59,6 +59,6 @@ After running, it creates the following table:
 
 # Final Notes
 
-Utilizing Feature Tools, Feature Engine, and Lazy Predict, I was able to narrow down to utilizing Logistic Regression for my model as well as being able to utilize a slew of engineered features.
+Utilizing Feature Tools, Feature Engine, and Lazy Predict, I was able to narrow down to utilizing Ada Boost Classifier for my model as well as being able to utilize a slew of engineered features.
 
 There were a few items I would have liked to look further into, but I felt they broke the spirit of using the three libraries for nearly 100% of the EDA/feature engineering process. Overall, I found this a great exercise in utilizing the three libraries and feel that, with a little more tweaking and practice, would be great additions to my usuaal data analysis process.
